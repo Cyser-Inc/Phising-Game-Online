@@ -13,7 +13,7 @@ Menjalankan
 
 python2 phising.py
 
-Listening web:  127.0.0.2:8080
+Listening web:  127.0.0.1:8080
 
 
 
