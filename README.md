@@ -1,9 +1,9 @@
 # Phising-Game-Online
-# Cyser Inc
+# Cyser Inc.
 
 tools phising untuk game : mobile legends & clash of clans
 
-# Installation :
+=> Installation :
 
 pkg install python2 -y
 pip2 install requests
@@ -11,7 +11,7 @@ pkg install figlet -y
 pkg install git -y
 git clone https://github.com/Cyser-Inc/Phising-Game-Online
 
-# how to use :
+=> how to use : 
 
 cd Phising-Game-Online
 python2 phising.py
